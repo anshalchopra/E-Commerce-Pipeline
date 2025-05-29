@@ -14,3 +14,7 @@
 ### May 27, 2025
 - Understanding the datasets and transforming it in the required format.
 - Setting up Docker containers to containerize/isolate datasets to simulate a ecommerce data platform.
+
+### May 28, 2025
+- Getting to know the system design processes and components.
+- Understanding how to simulate a simple customer - backend architecture using microservices.
